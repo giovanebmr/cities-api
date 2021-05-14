@@ -1,1 +1,1 @@
-# cities-api
+# Cities API
