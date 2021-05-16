@@ -1,7 +1,7 @@
 package com.giovanebmr.citiesapi.staties;
 
 
-import com.giovanebmr.citiesapi.countrie.Country;
+import com.giovanebmr.citiesapi.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;

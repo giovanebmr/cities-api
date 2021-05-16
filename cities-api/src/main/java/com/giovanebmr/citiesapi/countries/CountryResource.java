@@ -1,6 +1,6 @@
-package com.giovanebmr.citiesapi.countrie;
+package com.giovanebmr.citiesapi.countries;
 
-import com.giovanebmr.citiesapi.countrie.repository.CountryRepository;
+import com.giovanebmr.citiesapi.countries.repository.CountryRepository;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.ResponseEntity;

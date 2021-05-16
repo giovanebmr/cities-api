@@ -1,4 +1,4 @@
-package com.giovanebmr.citiesapi.countrie;
+package com.giovanebmr.citiesapi.countries;
 
 
 import javax.persistence.Column;
