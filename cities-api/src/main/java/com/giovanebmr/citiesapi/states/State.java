@@ -1,4 +1,4 @@
-package com.giovanebmr.citiesapi.staties;
+package com.giovanebmr.citiesapi.states;
 
 
 import com.giovanebmr.citiesapi.countries.Country;
