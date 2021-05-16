@@ -17,6 +17,9 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	runtimeOnly 'org.postgresql:postgresql'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+	//prove recursos para o hibernate conseguir lidar com jason, necessário devido ao campo ddd da tabela estados
+	implementation 'com.vladmihalcea:hibernate-types-52:2.9.8'
 }
 
 test {
